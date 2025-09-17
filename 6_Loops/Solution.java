@@ -23,7 +23,7 @@ class Solution {
 }
 
 
-import java.util.*;
+
 
 public class Solution {
     public static void solve() {
@@ -59,7 +59,7 @@ class Solution {
 
 
 //Back-end complete function Template for Java
-import java.util.*;
+
 
 public class Solution {
     public static void main(String args[]) {
@@ -76,7 +76,7 @@ public class Solution {
 }
 
 
-import java.util.*;
+
 
 public class Solution {
     public static void main(String args[]) {
@@ -93,7 +93,7 @@ public class Solution {
 
 
 // Solution.java
-import java.util.Scanner;
+
 
 public class Solution {
     public static void solve() {
@@ -139,7 +139,7 @@ class Solution {
 }
 
 
-import java.util.*;
+
 
 public class Solution {
     public static void solve() {
@@ -160,7 +160,7 @@ public class Solution {
 }
 
 
-import java.util.*;
+
 
 public class Solution {
     public static void main(String args[]) {
@@ -176,7 +176,7 @@ public class Solution {
 }
 
 
-import java.util.*;
+
 
 public class Solution {
     public static void main(String args[]) {
@@ -220,7 +220,7 @@ class Solution {
 
 
 
-import java.util.Scanner;
+
 
 public class Solution {
     public static void solve() {
@@ -258,7 +258,7 @@ class Solution {
 }
 
 
-import java.util.*;
+
 
 public class Solution {
     public static void main(String args[]) {
@@ -288,7 +288,6 @@ public class Solution {
 }
 
 
-import java.util.*;
 
 public class Solution {
     public static void main(String args[]) {
@@ -321,7 +320,7 @@ public class Solution {
 }
 
 
-import java.util.*;
+
 
 public class Solution {
     public static void main(String args[]) {
